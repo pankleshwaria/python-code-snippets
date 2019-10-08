@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Percy Ankleshwaria",
+    "email": "percy@gmail.com",
+    "department": "Development"
+  },
+  {
+    "name": "John Davis",
+    "email": "john@gmail.com",
+    "department": "QA"
+  },
+  {
+    "name": "Kelly Swift",
+    "email": "kelly@gmail.com",
+    "department": "HR"
+  }
+]
