@@ -10,10 +10,10 @@ rows = [
     ["Michel", "A"]
 ]
 
-with open(filename, "w") as csv_writer:
+with open(filename, mode="w", encoding='utf-8') as csv_file:
 
     # creating csv writer object
-    csv_writer = csv.writer(csv_writer)
+    csv_writer = csv.writer(csv_file)
 
     # add fields
     csv_writer.writerow(fields)
